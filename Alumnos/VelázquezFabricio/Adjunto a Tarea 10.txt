@@ -1,0 +1,4 @@
+//Velázquez Villegas Fabricio anexo a tarea 10
+//Se me olvidó poner esto en la tarea 10 y es acerca de la normalización a 2FN
+
+Ya sabemos que está en 1FN debido a nuestro esquema relacional. Y al revisar las llaves {AB} y {DB} no tienen dependencias parciales con los atributos no primos {E y F} por lo tanto al no haber ninguna dependencia parcial se concluye que ya está en la forma 2FN
